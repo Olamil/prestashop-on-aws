@@ -54,11 +54,23 @@ The deployment consists of:
 
 ## Project Screenshots
 ![AWS-Console](images/aws-console.png)
+
+
 ![Database](images/database.png)
+
+
 ![EC2-instance](images/ec2-instance.png)
+
+
 ![Security-group](images/security-group.png)
+
+
 ![ubuntu-terminal](images/ubuntu-terminal.png)
+
+
 ![prestashop-inistallation](images/prestashop-installation.png)
+
+
 ![prestashop-homepage](images/prestashop-homepage.png)
 
 
