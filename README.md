@@ -53,7 +53,7 @@ The deployment consists of:
 - Verify that the website is running successfully.
 
 ## Project Screenshots
-![AWS Console](images/AWS Console.png
+![AWS Console](images/AWSConsole.png)
 ![Database](images/database.png)
 ![EC2-instance](images/ec2-instance.png)
 ![Security-group](images/security-group.png)
