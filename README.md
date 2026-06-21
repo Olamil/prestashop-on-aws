@@ -1,6 +1,7 @@
 # prestashop-on-aws
 Practical Deployment of Prestashop on Amazon Web Services (AWS)
 
+
 ## Project Overview
 
 This project demonstrates the deployment of a PrestaShop e-commerce website on Amazon Web Services (AWS). The goal was to create a functional online store hosted on an AWS EC2 instance running Ubuntu Server with Apache, PHP, and MySQL.
@@ -69,10 +70,10 @@ Through this project, I gained practical experience in deploying a web applicati
 
 ## What I'd Like to Explore Next
 
-* Securing the deployment further — restricting SSH access, enabling HTTPS
+* Securing the deployment further. restricting SSH access, enabling HTTPS
 * Learning more about how AWS Security Groups and IAM permissions work
 * Understanding basic monitoring and backup practices for a live server
 
-
+-------
 Habeebullah Abdulwahab · Aspiring Cybersecurity Professional
 GitHub: github.com/Olamil · LinkedIn: linkedin.com/in/abdulwahabhabeeb
