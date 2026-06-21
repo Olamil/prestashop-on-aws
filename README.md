@@ -53,7 +53,14 @@ The deployment consists of:
 - Verify that the website is running successfully.
 
 ## Project Screenshots
-![
+![AWS Console](images/AWS Console.png
+![Database](images/database.png)
+![EC2-instance](images/ec2-instance.png)
+![Security-group](images/security-group.png)
+![ubuntu-terminal](images/ubuntu-terminal.png)
+![prestashop-inistallation](images/prestashop-installation.png)
+![prestashop-homepage](images/prestashop-homepage.png)
+
 
 ## Skills Demonstrated
 AWS EC2 deployment
